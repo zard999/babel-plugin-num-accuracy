@@ -13,6 +13,14 @@
   ],
   "author": "zyh",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/zard999/babel-plugin-num-accuracy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zard999/babel-plugin-num-accuracy"
+  },
   "devDependencies": {
     "@babel/core": "^7.22.10",
     "@rollup/plugin-babel": "^6.0.3",
