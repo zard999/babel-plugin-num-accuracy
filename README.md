@@ -1,4 +1,4 @@
-# babel-plugin-accuracy
+# babel-plugin-num-accuracy
 
 Fault tolerance for js projects
 
